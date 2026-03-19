@@ -1,5 +1,7 @@
 # Arkose BDA Encryption Key
 
+![Proof](./bML9W.png)
+
 ### 🔑 Login Key
 - *SiteKey*: `476068BF-9607-4799-B53D-966BE98E2B81`
 - **name**: `roblox_login`
